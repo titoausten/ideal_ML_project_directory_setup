@@ -1,7 +1,7 @@
 # Ideal Machine Learning Project Directory Setup
 
 ## Overview
-This repository contains a Python script to automate the ideal structure for Machine Learning projects in a production environment.
+This repository contains a Python script to automate the craetion of an ideal structure for Machine Learning projects in a production environment.
 
 ## Usage
 1. Clone this repository to your local machine:
